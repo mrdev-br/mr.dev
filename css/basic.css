@@ -1,0 +1,24 @@
+.carousel-shadow{
+    
+}
+
+ul{
+    position: inherit;
+    top: -50px;
+    justify-content: center;
+}
+
+li{
+    background-color:rgba(1 ,1 , 60, 0.60);
+    border:1px solid #05001870;
+    border-radius: 250px;
+    margin-inline: 8px;
+}
+
+li a{
+    text-transform:uppercase;
+    color: #b2bff8;
+    padding: 50px 20px;
+    text-decoration: none;
+}
+
